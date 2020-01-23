@@ -1,0 +1,17 @@
+[
+  {
+    "year": "2017",
+    "TotalFlights": "443512",
+    "TotalDelays": "248888"
+  },
+  {
+    "year": "2018",
+    "TotalFlights": "520452",
+    "TotalDelays": "252421"
+  },
+  {
+    "year": "2019",
+    "TotalFlights": "573643",
+    "TotalDelays": "256070"
+  }
+]
