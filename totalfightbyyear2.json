@@ -1,17 +1,42 @@
+
 [
-  {
-    "year": "2017",
-    "TotalFlights": "443512",
-    "TotalDelays": "248888"
-  },
-  {
-    "year": "2018",
-    "TotalFlights": "520452",
-    "TotalDelays": "252421"
-  },
-  {
-    "year": "2019",
-    "TotalFlights": "573643",
-    "TotalDelays": "256070"
-  }
-]
+    {
+        "categorie": "2017", 
+        "values": [
+            {
+                "value": 443512, 
+                "rate": "Total Flights"
+            }, 
+            {
+                "value": 248888, 
+                "rate": "Total Delays"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2018", 
+        "values": [
+            {
+                "value": 520452, 
+                "rate": "Total Flights"
+            }, 
+            {
+                "value": 252421, 
+                "rate": "Total Delays"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2019", 
+        "values": [
+            {
+                "value": 573643, 
+                "rate": "Total Flights"
+            }, 
+            {
+                "value": 256070, 
+                "rate": "Total Delays"
+            }
+        ]
+    }
+    
