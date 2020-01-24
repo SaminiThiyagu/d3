@@ -1,7 +1,7 @@
 
 [
     {
-        "categorie": "2017", 
+        "group": "2017", 
         "values": [
             {
                 "value": 443512, 
@@ -14,7 +14,7 @@
         ]
     }, 
     {
-        "categorie": "2018", 
+        "group": "2018", 
         "values": [
             {
                 "value": 520452, 
@@ -27,7 +27,7 @@
         ]
     }, 
     {
-        "categorie": "2019", 
+        "group": "2019", 
         "values": [
             {
                 "value": 573643, 
